@@ -11,7 +11,8 @@ const MantrasIntro = () => {
       {/* if you want to have an image uncomment below */}
       {/* <img src={Logo} alt="Logo" className="intro_image" /> */}
       <p className="intro_text">
-        You can enter the number of Karmapa Chenno mantras (not malas) that you do throughout the weekend. You can fill out the form as many times as you want.
+        You can enter the number of Karmapa Chenno mantras (not malas) that you do throughout the weekend.
+        You can fill out the form as many times as you want.
       </p>
     </div>
   )
