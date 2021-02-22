@@ -7,7 +7,6 @@ export default function Footer() {
       <a href="https://www.resources.diamondway.org/americas-gathering" target="_new">
         Americas Gathering
       </a>{' '}
-      •{' '}
       • 2021
     </div>
   )

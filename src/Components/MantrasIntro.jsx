@@ -11,7 +11,17 @@ const MantrasIntro = () => {
       {/* if you want to have an image uncomment below */}
       {/* <img src={Logo} alt="Logo" className="intro_image" /> */}
       <p className="intro_text">
-        You can enter the number of Karmapa Chenno mantras (not malas) that you do throughout the weekend. You can fill out the form as many times as you want.
+        Whether you do a formal Guru Yoga session or are doing mantras while
+        walking in the park...if you are dedicating them to{' '}
+        <a href="https://www.resources.diamondway.org/americas-gathering/" target="_new">
+          -- Americas Gathering --
+        </a>
+        , make that wish and simply count them and make a record of it. Then
+        input the number of mantras in the form below. Again, you do not have to
+        do a formal sitting session in order to count your Karmapa Chenno
+        mantras. Formal sessions on the 16th Karmapa in your local center are
+        recommended as well. We wish to keep this project ongoing throughout
+        this weekend and see how soon we can accomplish <b>-- 111,111 Karmapa Chennos--</b>.
       </p>
     </div>
   )
