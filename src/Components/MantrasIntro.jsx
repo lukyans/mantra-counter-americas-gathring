@@ -13,7 +13,7 @@ const MantrasIntro = () => {
       <p className="intro_text">
         Whether you do a formal Guru Yoga session or are doing mantras while
         walking in the park...if you are dedicating them to{' '}
-        <a href="https://www.resources.diamondway.org/americas-gathering/" target="_new">
+        <a href="http://resources.diamondway.org/americas-gathering" target="_new">
           Americas Gathering
         </a>
         , make that wish and simply count them and make a record of it. Then
