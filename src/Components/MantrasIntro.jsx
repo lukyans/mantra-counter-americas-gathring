@@ -21,7 +21,7 @@ const MantrasIntro = () => {
         do a formal sitting session in order to count your Karmapa Chenno
         mantras. Formal sessions on the 16th Karmapa in your local center are
         recommended as well. We wish to keep this project ongoing throughout
-        this weekend and see how soon we can accomplish <b>111,111 Karmapa Chennos</b>.
+        this weekend.
       </p>
     </div>
   )
