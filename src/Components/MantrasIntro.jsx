@@ -12,7 +12,7 @@ const MantrasIntro = () => {
       {/* <img src={Logo} alt="Logo" className="intro_image" /> */}
       <p className="intro_text">
         Whether you are doing a formal session on the 16th Karmapa privately,
-        in your local center, or are counting mantras while walking in the park...
+        in your local center,  at the scheduled time or whenever you have time,
         please focus your wishes as a gift to Lama Ole during this{' '}
         <a href="http://resources.diamondway.org/americas-gathering" target="_new">
          Americas Gathering
